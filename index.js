@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
     hh = h / 2,
 
     opts = {
-        strings: ['HAPPY', 'BIRTHDAY!', 'My Dear Jaan❤ , Sparo', 'I Love You So Much ❤','Always Happy '],
+        strings: ['My Name is Rana Ali Haider', 'Student at GIFT University', 'Department , BSCS', 'In Gujranwala '],
         charSize: 30,
         charSpacing: 35,
         lineHeight: 40,
